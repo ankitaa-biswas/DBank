@@ -114,3 +114,10 @@ textarea[name="address"] {
   padding: 10px 2.7rem;
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
+
+p.interest-info {
+  color: #249cd4;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 5px;
+}
